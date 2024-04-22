@@ -1,0 +1,73 @@
+@media screen and (max-width: 1000px) {
+    
+    .header1{
+        margin-left: 16px;
+    }
+    .header3{
+        /* margin-right: 50px; */
+        /* border: 10px solid green; */
+        padding: 5px 15px;
+        margin-right: 0;
+    }
+    .header3 a{
+        font-size: 12px;
+        padding: 0;
+    }
+    .heroic-section{
+        flex-direction: column;
+    max-height: 300px;
+    }
+    .s-section1{
+        top: 50px;
+        left: 0;
+        bottom: 10px;
+    }
+    .section2{
+        display: none;
+    }
+    .button{
+        padding: 10px 20px;
+        margin-bottom: 20px;
+        /* border: 1px solid green; */
+        display: inline;
+
+    }
+    .testimonial2{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .small-box{
+        display: block;
+        margin: 0;
+        min-width: 100%;
+        /* max-height: ; */
+    }
+    .small-box p{
+        text-align: right;
+        top: 90px;
+    }
+    .profile-circle{
+        left: 75px;
+        width: 130px;
+        height: 130px;
+    }
+    .profile-circle img{
+        width: 100px;
+        height: 100px;
+        left: 15px;
+        top: 14px;
+    }
+    .filter-cards{
+     gap: 5;
+      
+    }
+    .card{
+        max-width: 200px;
+        max-height: 400px;
+    }
+    .card img{
+       max-width: 200px;
+       max-height: 200px;
+    }
+}
+
